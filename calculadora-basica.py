@@ -25,7 +25,7 @@ def menor_que_cero(numero):
         return True
 # ----------------------------------------------------------------------------------------------------------------------
 
-#***** Bloque de separadores esteticos para el programa ******
+#***** Bloque de separadores visuales para el programa ******
 
 def espacio():
     print("\n")
@@ -100,7 +100,7 @@ def segundo_numero():
 #-----------------------------------------------------------------
 
     
-#***** Bloque de funciones que realizan las opeeraciones basicas de la calculadora. *****
+#***** Bloque de funciones que realizan las operaciones basicas de la calculadora. *****
 
 # En cada una de las funciones, se ingresan los dos numeros que previamente se solicitaron.
 # Según la operacion, el resultado se guarda en la variable llamada "Resultado".
