@@ -122,7 +122,7 @@ def division(numero1, numero2):
     return resultado
 # --------------------------------------------------------------------------------------
 
-#***** Funciónes que realizan la verificacino del primer y segundo número. ******
+#***** Funciónes que realizan la verificación del primer y segundo número. ******
 
 # Se verifica que el campo no se haya dejado vacio.
 # Se verifica que el dato ingresado sea un digito y no una letra o caracter.
