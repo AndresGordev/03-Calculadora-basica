@@ -183,7 +183,7 @@ def verificacion_eleccion():
 # En cada una de las opciones, se realizan las siguientes acciones:
 # Se limpia la pantalla.
 # Se muestra el encabezado correspondiente a la operacion elegida.
-# Se solicita el primero numero.
+# Se solicita el primer numero.
 # Se solicita el segundo numero.
 # Se almacena el resultado de la operacion.
 # Se muestra un separador formado por guiones.
