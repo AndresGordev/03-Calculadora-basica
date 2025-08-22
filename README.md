@@ -50,10 +50,10 @@ Presiona Enter para volver al menú:
 - Bloque de separadores visuales del programa.
 - Bloque de mensajes que el programa mostrara.
 - Bloque de encabezados para cada operacion.
-- Bloque de mensajes que conforman al menu.
-- Funciones que solicitan el primero y segundo numero.
+- Bloque de mensajes que conforman al menú.
+- Funciones que solicitan el primero y segundo número.
 - Bloque de funciones que realizan las operaciones aritmeticas basicas.
-- Bloque de funciones que verifican al primero y segundo numero ingresado.
-- Funcion que verifica el numero de opcion elegida en el menu.
+- Bloque de funciones que verifican al primero y segundo número ingresado.
+- Funcion que verifica el numero de opcion elegida en el menú.
 - Funcion que asigna este numero a cada operacion aritmetica correspondiente.
 - Bloque de la logica principal, en la que se llama a las funciones previamente mencionadas para el desarrollo del programa.
