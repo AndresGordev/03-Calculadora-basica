@@ -10,7 +10,7 @@ def campo_vacio(numero):
     if numero.strip() == "":
         return True
 # Función que verifica  que el dato ingresado por el usuario sea un digito y no una letra o caracter.
-# Esta función utiliza el metodo isdigit() para devolver un valor booleano verdadero si esat condicion de cumple.
+# Esta función utiliza el metodo isdigit() para devolver un valor booleano verdadero si esta condicion de cumple.
 def numero_digito(numero):
     if numero.isdigit():
         return True
