@@ -21,7 +21,8 @@ El desarrollo del programa esta enfocado en un flujo robusto, anticipando los er
 
 ## Ejemplo de salida
 
-''' ************************************************************
+''' 
+************************************************************
                         MULTIPLICACIÓN
 ************************************************************
 Ingresa un primer número entero: 60
@@ -31,7 +32,8 @@ Ingresa un segundo número entero: 35
 
 ** La multiplicación de 60 * 35 es: 2100 ** 
 
-Presiona Enter para volver al menú: '''
+Presiona Enter para volver al menú: 
+'''
 
 ## Tecnologia Usada
 
